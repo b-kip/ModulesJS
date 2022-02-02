@@ -1,2 +1,2 @@
-# JS-Modules
+# ModulesJS
 Breaking down JS module structure
